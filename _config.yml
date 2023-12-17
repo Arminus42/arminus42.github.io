@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Arminus42's blog
+description: 
 theme: just-the-docs
 
-url: https://arminus42.github.io
+url: https://arminus42.github.io/arminus42
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/arminus42/arminus42
